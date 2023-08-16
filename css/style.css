@@ -18,6 +18,10 @@
     filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.9));
 }
 
-section {
+section{
     padding: 20px 0;
+}
+footer{
+    margin-bottom: 0 !important;
+    padding: 1px 0px;
 }
